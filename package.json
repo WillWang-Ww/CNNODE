@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/WillWang-Ww/CNNODE/issues"
   },
-  "homepage": "https://github.com/WillWang-Ww/CNNODE#readme"
+  "homepage": "https://github.com/WillWang-Ww/CNNODE#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
