@@ -1,0 +1,23 @@
+{
+  "name": "cnnode",
+  "version": "0.0.1",
+  "description": "这是一个仿CNNODE的项目",
+  "main": "\u001b[C\u001b[D\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillWang-Ww/CNNODE.git"
+  },
+  "keywords": [
+    "vue",
+    "cnnode"
+  ],
+  "author": "willwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillWang-Ww/CNNODE/issues"
+  },
+  "homepage": "https://github.com/WillWang-Ww/CNNODE#readme"
+}
